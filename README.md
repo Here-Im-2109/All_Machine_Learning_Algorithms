@@ -281,7 +281,9 @@ This project is licensed under the **MIT License**.
 **ARPAN CHANDRA**
 
 Phone No. : (+91) 9832575616
+
 Email Add : 1.arpanchandra@gmail.com
+
 Feel free to connect, contribute, or raise issues if you have suggestions or improvements.
 
 ---
